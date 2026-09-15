@@ -47,7 +47,7 @@
 * **Cloud Native:** AWS ECR, Azure Container Registry (ACR), Google Artifact Registry (GAR), GitHub Packages
 
 ### Docker Hub Image Categories
-* **Official Images:** High-quality, security-scanned base images.
+* **Official Images:** High-quality , security-scanned base images.
 * **Verified Publisher:** Maintained by certified commercial vendors.
 * **Sponsored OSS:** Community open-source projects supported by Docker.
 * **User/Org:** Custom repositories published by individuals or companies.
